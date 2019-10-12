@@ -19,6 +19,11 @@ $mysql -u root -p seq_db < db.sql
 //Tenemos que modificar los datos de acceso a mysql en:controllers/apicrud.js  y controllers/listado.js
 $ npm install
 $ npm start
+// en otro terminal
+$ cd crud-nodejs-vuejs-mysql-materialize
+$ cd client
+$ npm install
+$ npm run serve
 ```
 
 Este proyecto lo hemos creado utiliando express-generator:
@@ -28,6 +33,7 @@ $ npm install -g express-generator
 $ express --hbs miapp
 $ cd miapp
 $ npm install
+$ vue create client
 
 
 ```
