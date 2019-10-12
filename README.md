@@ -1,7 +1,7 @@
 # nodejs-hbs-materialize
 crud api/web con nodejs- handelbars (hbs) y materialize 1.0.0 (completo)
 
-- Hay dos formas de acceso:
+- Hay tres formas de acceso:
   * Una como api, mediante: myip:3000/api/(listado|crear|modificar|borrar|buscar).
      Ejemplo: myip:3000/api/modificar/11
   * Otra como web, mediante: myip:3000/users/listado
