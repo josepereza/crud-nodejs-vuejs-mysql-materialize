@@ -13,8 +13,8 @@ crud api/web con nodejs- handelbars (hbs) y materialize 1.0.0 (completo)
 Funcionamiento basico:
 ```ruby
 mysql>CREATE DATABASE seq_db;
-$ git clone https://github.com/josepereza/nodejs-crud-api-web-mariadb-materialize.git
-$ cd nodejs-crud-api-web-mariadb-materialize
+$ git clone https://github.com/josepereza/crud-nodejs-vuejs-mysql-materialize.git
+$ cd crud-nodejs-vuejs-mysql-materialize
 $mysql -u root -p seq_db < db.sql
 //Tenemos que modificar los datos de acceso a mysql en:controllers/apicrud.js  y controllers/listado.js
 $ npm install
