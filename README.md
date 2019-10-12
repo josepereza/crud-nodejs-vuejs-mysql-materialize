@@ -1,5 +1,5 @@
-# nodejs-hbs-materialize
-crud api/web con nodejs- handelbars (hbs) y materialize 1.0.0 (completo)
+# crud-nodejs-vuejs-mysql-materialize
+crud api/web con nodejs- handelbars (hbs), vuejs,mysql(mariadb-connector) materialize 1.0.0 (completo)
 
 - Hay tres formas de acceso:
   * Una como api, mediante: myip:3000/api/(listado|crear|modificar|borrar|buscar).
