@@ -6,8 +6,8 @@ crud api/web con nodejs- handelbars (hbs) y materialize 1.0.0 (completo)
      Ejemplo: myip:3000/api/modificar/11
   * Otra como web, mediante: myip:3000/users/listado
      Ejemplo: http://173.242.39.9:3000/users/listado
-  * Y la otra es a traves de Vuejs con el puerto 8080 o el que te diga al ejecutar : 
-     #crud-nodejs-vuejs-mysql-materialize#client#npm run serve
+  * Y la otra es a traves de Vuejs con el puerto 8080 o el que te diga al ejecutar en la siguiente ruta : 
+     #crud-nodejs-vuejs-mysql-materialize -> client ->  npm run serve
      Ejemplo: http://173.441.31.9:8080
 
 Funcionamiento basico:
